@@ -1,0 +1,5 @@
+{
+  "name": "Lumina AI Studio",
+  "description": "A professional-grade AI image generation and editing suite powered by Gemini models. Create stunning visuals from text or modify existing images with natural language instructions.",
+  "requestFramePermissions": []
+}
